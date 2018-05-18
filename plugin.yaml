@@ -1,6 +1,0 @@
-name: "env"
-version: "1.0.0"
-usage: "displays all available draft-related environment variables"
-description: "displays all available draft-related environment variables"
-command: "env"
-useTunnel: true
